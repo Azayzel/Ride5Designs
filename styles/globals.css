@@ -1,0 +1,6 @@
+/* Embla Carousel base styling to prevent user selection on slides */
+.embla__slide {
+  user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+}
